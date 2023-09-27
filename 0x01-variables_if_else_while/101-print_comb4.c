@@ -36,10 +36,12 @@ int main(void)
 					}
 				}
 				digit3++;
+				digit3++;
 			}
 			digit2++;
 		}
-		putchar('\n');
+		digit1++;
+	}
 	putchar('\n');
 	return (0);
 }
