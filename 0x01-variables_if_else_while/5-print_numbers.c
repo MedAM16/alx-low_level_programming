@@ -12,7 +12,7 @@ int main(void)
 {
 	int s = '0';
 
-	while (s => '0' && s <= '9')
+	while (s <= '0' && s <= '9')
 	{
 		printf("%d", s);
 		s++;
